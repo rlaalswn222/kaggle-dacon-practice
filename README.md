@@ -8,3 +8,8 @@ kaggle, dacon 연습 제출 (2024 ~ ing)
 dacon_NovelistClassification_CNN.ipynb
 
 ![image](https://github.com/user-attachments/assets/69c528d7-209d-4d8e-b951-f81db992c5b6)
+
+------
+# amazon reviews for sentiment analysis
+
+<img width="912" alt="스크린샷 2025-04-12 오후 9 14 42" src="https://github.com/user-attachments/assets/a5990348-73f4-4766-b2fc-a40ed342e4c4" />
